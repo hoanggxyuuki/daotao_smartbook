@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+header, footer {
+    background: #50b3a2;
+    color: #fff;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+    background: #f1eded;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #deb5e0;
+}
